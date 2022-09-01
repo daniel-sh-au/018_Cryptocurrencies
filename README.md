@@ -15,12 +15,13 @@ The purpose of this analysis was to apply unsupervised machine learning techniqu
 ## Results
 
 ### Deliverable 3: Elbow Curve
-
+![elbow_curve.png](https://github.com/daniel-sh-au/UofT_DataBC_Module18_Cryptocurrencies/blob/main/Resources/elbow_curve.png)
 
 ### Deliverable 4: 3D-Scatter Plot with PCA Data
-
+![3d_scatter.png](https://github.com/daniel-sh-au/UofT_DataBC_Module18_Cryptocurrencies/blob/main/Resources/3d_scatter.png)
 
 ### Deliverable 4: Tradable Cryptocurrencies
-
+![hvplot_table.png](https://github.com/daniel-sh-au/UofT_DataBC_Module18_Cryptocurrencies/blob/main/Resources/hvplot_table.png)
 
 ### Deliverable 4: TotalCoinSupply vs. TotalCoinsMined Scatter Plot
+![hvplot_scatter.png](https://github.com/daniel-sh-au/UofT_DataBC_Module18_Cryptocurrencies/blob/main/Resources/hvplot_scatter.png)
